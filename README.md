@@ -1,3 +1,4 @@
-# html-css-website-v1
-Created a simple website using HTML, CSS &amp; Javascript
-Have done some changes in UI of this website through CSS.
+
+# HTML, CSS, JavaScript Website Template
+
+Created a simple website template with navbar header, body, user sign-up, sign-in, footer using HTML, CSS and Javascript.
